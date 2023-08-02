@@ -5,7 +5,8 @@
 	* 1.3. [Interested in Buying Sigfox enabled hardware ?](#InterestedinBuyingSigfoxenabledhardware)
 		* 1.3.1. [Learn more about LPWAN on ARM Cortex (STM32)](#LearnmoreaboutLPWANonARMCortexSTM32)
 	* 1.4. [Liquid Intelligent Technologies ?](#LiquidIntelligentTechnologies)
-	* 1.5. [Any doubts for the above  ?](#Anydoubtsfortheabove)
+	* 1.5. [Raspberry Pi Course ?](#RaspberryPiCourse)
+	* 1.6. [Any doubts for the above  ?](#Anydoubtsfortheabove)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -42,7 +43,10 @@
 - [Click here to explore more and any possible opportunities](https://liquid.tech/)
 - [Parent Company](https://www.cassavatechnologies.com/)
 
-###  1.5. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
+###  1.5. <a name='RaspberryPiCourse'></a>Raspberry Pi Course ?
+- **[Click here to explore the published Raspberry Pi course]**(https://www.udemy.com/course/raspberry-pi-mastery-programming-electronics-and-iot/)
+
+###  1.6. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
 
 - [Reach out to me, scroll down through my portifolio and get to contact the section.][def10]
 
