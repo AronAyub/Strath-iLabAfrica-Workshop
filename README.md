@@ -44,7 +44,10 @@
 
 ###  1.5. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
 
-- [Reach out to me, scroll down through my portifolio and get to contact section.][def10]
+- [Reach out to me, scroll down through my portifolio and get to contact the section.][def10]
+
+<img width="761" alt="image" src="https://github.com/AronAyub/Azure-IoT-Raspberry-Pi/assets/55284959/3a2280eb-541e-433c-a9ff-b709ea3efd7b">
+
 
 
 
