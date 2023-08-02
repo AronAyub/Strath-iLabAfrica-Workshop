@@ -50,7 +50,7 @@
 
 ###  1.6. <a name='CanyouInterfaceIoTwithEmbeddedAIProjects'></a>Can you Interface IoT with Embedded AI Projects ?
 
-- 100% possible, our next workshop someday would be: Sending prompts after EDGE AI model has inferenced. (EDGEIMPULSE-LPWAN Integration)
+- 100% possible, Sending prompts after EDGE AI model has inferences is possible. (EDGEIMPULSE-LPWAN Integration) Protocol from Edge device may vary from MQTT, Sigfox, Wi-Fi etc..
 
 
 ###  1.7. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
