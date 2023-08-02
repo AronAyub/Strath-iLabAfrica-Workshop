@@ -1,5 +1,5 @@
 # Strath-iLabAfrica Workshop
- Materials presented during iLabAfrica.
+ ## Materials presented during iLabAfrica.
 
 
 - [Download the slides][def]
