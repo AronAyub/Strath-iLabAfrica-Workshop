@@ -1,10 +1,11 @@
 <!-- vscode-markdown-toc -->
-* 1. [Materials presented during iLabAfrica.](#MaterialspresentedduringiLabAfrica.)
+* 1. [Materials presented during iLabAfrica..](#MaterialspresentedduringiLabAfrica..)
 	* 1.1. [Microsoft Azure IoT](#MicrosoftAzureIoT)
 	* 1.2. [Sigfox ?](#Sigfox)
 	* 1.3. [Interested in Buying Sigfox enabled hardware ?](#InterestedinBuyingSigfoxenabledhardware)
 		* 1.3.1. [Learn more about LPWAN on ARM Cortex (STM32)](#LearnmoreaboutLPWANonARMCortexSTM32)
-	* 1.4. [Any doubts for the above  ?](#Anydoubtsfortheabove)
+	* 1.4. [Liquid Intelligent Technologies ?](#LiquidIntelligentTechnologies)
+	* 1.5. [Any doubts for the above  ?](#Anydoubtsfortheabove)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -12,7 +13,7 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc --># Strath-iLabAfrica Workshop
 
-##  1. <a name='MaterialspresentedduringiLabAfrica.'></a>Materials presented during iLabAfrica..
+##  1. <a name='MaterialspresentedduringiLabAfrica..'></a>Materials presented during iLabAfrica..
 
 - [Download the slides][def]
 - The slides has embedded links to explore Sigfox and Microsoft IoT.
@@ -35,7 +36,12 @@
 ####  1.3.1. <a name='LearnmoreaboutLPWANonARMCortexSTM32'></a>Learn more about LPWAN on ARM Cortex (STM32)
 - [Click here][def6]
 
-###  1.4. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
+###  1.4. <a name='LiquidIntelligentTechnologies'></a>Liquid Intelligent Technologies ?
+
+- [Click here to explore more and any possible opportunities](https://liquid.tech/)
+- [Parent Company](https://www.cassavatechnologies.com/)
+
+###  1.5. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
 
 - [Reach out to me, scroll down through my portifolio and get to contact section.][def10]
 
