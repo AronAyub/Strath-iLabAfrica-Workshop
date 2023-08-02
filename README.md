@@ -1,28 +1,41 @@
-# Strath-iLabAfrica Workshop
- ## Materials presented during iLabAfrica.
+<!-- vscode-markdown-toc -->
+* 1. [Materials presented during iLabAfrica.](#MaterialspresentedduringiLabAfrica.)
+	* 1.1. [Microsoft Azure IoT](#MicrosoftAzureIoT)
+	* 1.2. [Sigfox ?](#Sigfox)
+	* 1.3. [Interested in Buying Sigfox enabled hardware ?](#InterestedinBuyingSigfoxenabledhardware)
+		* 1.3.1. [Learn more about LPWAN on ARM Cortex (STM32)](#LearnmoreaboutLPWANonARMCortexSTM32)
+	* 1.4. [Any doubts for the above  ?](#Anydoubtsfortheabove)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --># Strath-iLabAfrica Workshop
+
+##  1. <a name='MaterialspresentedduringiLabAfrica.'></a>Materials presented during iLabAfrica..
 
 - [Download the slides][def]
 - The slides has embedded links to explore Sigfox and Microsoft IoT.
 
-### Microsoft Azure IoT
+###  1.1. <a name='MicrosoftAzureIoT'></a>Microsoft Azure IoT
 
 - [Click here to watch how to create IoT Resources in Azure][def7]
 - [Microsoft Power Bi and IoT][def8]
 
-### Sigfox ?
+###  1.2. <a name='Sigfox'></a>Sigfox ?
 - [Learn more about Sigfox][def9]
 
-### Interested in Buying Sigfox enabled hardware ?
+###  1.3. <a name='InterestedinBuyingSigfoxenabledhardware'></a>Interested in Buying Sigfox enabled hardware ?
 
 - [ **MKRFOX 1200**][def2]
 - [Nucleo Board - STM32][def3]
 - [Raspberry Pi Shield][def4]
 - [Wisol Breakout Board][def5]
 
-#### Learn more about LPWAN on ARM Cortex (STM32)
+####  1.3.1. <a name='LearnmoreaboutLPWANonARMCortexSTM32'></a>Learn more about LPWAN on ARM Cortex (STM32)
 - [Click here][def6]
 
-### Any doubts for the above  ?
+###  1.4. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
 
 - [Reach out to me, scroll down through my portifolio and get to contact section.][def10]
 
