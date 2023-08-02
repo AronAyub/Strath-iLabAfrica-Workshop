@@ -11,7 +11,8 @@
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --># Strath-iLabAfrica Workshop
+<!-- /vscode-markdown-toc -->
+# Strath-iLabAfrica Workshop
 
 ##  1. <a name='MaterialspresentedduringiLabAfrica..'></a>Materials presented during iLabAfrica..
 
