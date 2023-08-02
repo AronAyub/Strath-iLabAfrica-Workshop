@@ -19,14 +19,15 @@
 - [Raspberry Pi Shield][def4]
 - [Wisol Breakout Board][def5]
 
-### Any doubts on the above  ?
+#### Learn more about LPWAN on ARM Cortex (STM32)
+- [Click here][def6]
+
+### Any doubts for the above  ?
 
 - [Reach out to me, scroll down through my portifolio and get to contact section.][def10]
 
 
 
-#### Learn more about LPWAN on ARM Cortex (STM32)
-- [Click here][def6]
 
 
 [def]: https://github.com/AronAyub/Strath-iLabAfrica-Workshop/blob/main/IoT%20Workshop%20Strath-ILabAfrica.pdf
