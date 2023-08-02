@@ -44,7 +44,8 @@
 - [Parent Company](https://www.cassavatechnologies.com/)
 
 ###  1.5. <a name='RaspberryPiCourse'></a>Raspberry Pi Course ?
-- **[Click here to explore the published Raspberry Pi course]**(https://www.udemy.com/course/raspberry-pi-mastery-programming-electronics-and-iot/)
+
+- [Click here to explore the published Raspberry Pi course](https://www.udemy.com/course/raspberry-pi-mastery-programming-electronics-and-iot/)
 
 ###  1.6. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
 
