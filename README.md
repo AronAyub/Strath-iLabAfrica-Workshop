@@ -6,7 +6,8 @@
 		* 1.3.1. [Learn more about LPWAN on ARM Cortex (STM32)](#LearnmoreaboutLPWANonARMCortexSTM32)
 	* 1.4. [Liquid Intelligent Technologies ?](#LiquidIntelligentTechnologies)
 	* 1.5. [Raspberry Pi Course ?](#RaspberryPiCourse)
-	* 1.6. [Any doubts for the above  ?](#Anydoubtsfortheabove)
+	* 1.6. [Can you Interface IoT with Embedded AI Projects ?](#CanyouInterfaceIoTwithEmbeddedAIProjects)
+	* 1.7. [Any doubts for the above  ?](#Anydoubtsfortheabove)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -47,7 +48,12 @@
 
 - [Click here to explore the published Raspberry Pi course](https://www.udemy.com/course/raspberry-pi-mastery-programming-electronics-and-iot/)
 
-###  1.6. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
+###  1.6. <a name='CanyouInterfaceIoTwithEmbeddedAIProjects'></a>Can you Interface IoT with Embedded AI Projects ?
+
+- 100% possible, our next workshop someday would be: Sending prompts after EDGE AI model has inferenced. (EDGEIMPULSE-LPWAN Integration)
+
+
+###  1.7. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
 
 - [Reach out to me, scroll down through my portifolio and get to contact the section.][def10]
 
