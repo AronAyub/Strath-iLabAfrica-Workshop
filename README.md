@@ -19,7 +19,7 @@
 ##  1. <a name='MaterialspresentedduringiLabAfrica..'></a>Materials presented during iLabAfrica..
 
 - [Download the slides][def]
-- The slides has embedded links to explore Sigfox and Microsoft IoT.
+- I have embedded links in the Deck.
 
 ###  1.1. <a name='MicrosoftAzureIoT'></a>Microsoft Azure IoT
 
@@ -31,7 +31,7 @@
 
 ###  1.3. <a name='InterestedinBuyingSigfoxenabledhardware'></a>Interested in Buying Sigfox enabled hardware ?
 
-- [ **MKRFOX 1200**][def2]
+- [ **MKRFOX 1200 - Locally available**][def2]
 - [Nucleo Board - STM32][def3]
 - [Raspberry Pi Shield][def4]
 - [Wisol Breakout Board][def5]
@@ -50,7 +50,7 @@
 
 ###  1.6. <a name='CanyouInterfaceIoTwithEmbeddedAIProjects'></a>Can you Interface IoT with Embedded AI Projects ?
 
-- 100% possible, Sending prompts after EDGE AI model has inferences is possible. (EDGEIMPULSE-LPWAN Integration) Protocol from Edge device may vary from MQTT, Sigfox, Wi-Fi etc..
+- 100% possible, Sending prompts after EDGE AI model has done inferences is possible. (EDGEIMPULSE-LPWAN Integration) Protocol from Edge device may vary from MQTT, Sigfox, Wi-Fi etc..
 
 
 ###  1.7. <a name='Anydoubtsfortheabove'></a>Any doubts for the above  ?
