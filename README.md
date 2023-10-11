@@ -8,6 +8,7 @@
 	* 1.5. [Raspberry Pi Course ?](#RaspberryPiCourse)
 	* 1.6. [Can you Interface IoT with Embedded AI Projects ?](#CanyouInterfaceIoTwithEmbeddedAIProjects)
 	* 1.7. [Any doubts for the above  ?](#Anydoubtsfortheabove)
+	
 
 <!-- vscode-markdown-toc-config
 	numbering=true
